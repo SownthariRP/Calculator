@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-	int a,b,c;
-	scanf("%d %d",&a,&b);
-	c=a+b;
-	printf("%d",c);
+	int a1,b1,c1;
+	scanf("%d %d",&a1,&b1);
+	c1=a1+b1;
+	printf("%d",c1);
 }
