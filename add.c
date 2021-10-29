@@ -2,7 +2,9 @@
 int main()
 {
 	int a,b,c;
+	printf("enter no for add");
 	scanf("%d %d",&a,&b);
 	c=a+b;
-	printf("%d",c);
+	printf(" result of add%d",c);
+	return 0;
 }
